@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## First CS19300 Project
+Favorite things about CS19300:
+1. Good Resources
+2. Helpful with future classes and jobs
+3. Good chill teaching staff
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
